@@ -2,8 +2,8 @@
 document.getElementById("header").innerHTML = `
 <div class="top-bar">
   <div class="container">
-    <div>📧 stxavierbalikuda@gmail.com</div>
-    <div>📞 +91-9000000000</div>
+    <div>📧 sxsbkd@gmail.com</div>
+    <div>📞 +91-7873224985</div>
   </div>
 </div>
 
@@ -18,7 +18,7 @@ document.getElementById("header").innerHTML = `
       <li><a href="index.html">Home</a></li>
       <li><a href="facility.html">Facilities</a></li>
       <li><a href="gallery.html">Gallery</a></li>
-      <li><a href="mandatory.html">Disclosure</a></li>
+      <li><a href="mandatory.html">Mandatory Disclosure</a></li>
       <li><a href="contact.html">Contact Us</a></li>
     </ul>
   </nav>
@@ -48,8 +48,8 @@ document.getElementById("footer").innerHTML = `
 
     <div class="footer-section">
       <h3>Contact</h3>
-      <p>📞 +91-9000000000</p>
-      <p>📧 stxavierbalikuda@gmail.com</p>
+      <p>📞 +91-7873224985</p>
+      <p>📧 sxsbkd@gmail.com</p>
     </div>
 
     <div class="footer-section">
