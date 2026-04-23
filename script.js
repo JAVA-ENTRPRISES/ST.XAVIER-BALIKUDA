@@ -33,10 +33,9 @@ document.getElementById("footer").innerHTML = `
   <div class="footer-top">
 
     <div class="footer-section">
-      <h3>About School</h3>
-       <div class="logo-area">
+    <div class="logo-area">
       <img src="images/log.png" alt="logo">
-      <div class="logo-text">ST. XAVIER SCHOOL</div>
+      <h3>ST. XAVIER SCHOOL</h3>
     </div>
       <p>St.Xavier Public School provides quality education with modern facilities and values.</p>
     </div>
