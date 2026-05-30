@@ -9,8 +9,8 @@ document.getElementById("header").innerHTML = `
 
 <header>
   <nav>
-    <div class="logo-area">
-      <img src="doc/LOGO.jpeg" alt="logo">
+    <div class="logo-area"> 
+      <img src="doc/LOGO.jpeg" alt="logo"> 
       <div class="logo-text">ST. XAVIER SCHOOL</div>
     </div>
 
@@ -34,7 +34,7 @@ document.getElementById("footer").innerHTML = `
 
     <div class="footer-section"> 
     <div class="logo-area">
-      <img src="doc/LOGO.jpeg" alt="logo">
+      <img src="doc/LOGO.jpeg" alt="logo"> 
       <h3>ST. XAVIER SCHOOL</h3>
     </div>
       <p>St.Xavier Public School provides quality education with modern facilities and values.</p>
